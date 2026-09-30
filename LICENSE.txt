@@ -1,0 +1,8 @@
+This repository is a reorganized copy of the Arduino Project Hub project
+"A Beginner's Guide: Controlling an Arduino Car with a Remote" by Lee Curiosity.
+
+The source project page identifies the project as CC BY 4+:
+https://projecthub.arduino.cc/lee_curiosity/a-beginners-guide-controlling-an-arduino-car-with-a-remote-5d4418
+
+See the source project for the authoritative license terms and attribution
+requirements. Third-party images and the STL asset retain their original rights.
